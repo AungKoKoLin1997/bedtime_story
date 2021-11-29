@@ -1,0 +1,16 @@
+[
+    {
+        "rating":"4.,5",
+        "text":"Testing",
+        "title":"Story Kid",
+        "img":"img/pic-1.png",
+        "audio":"https://s3.amazonaws.com/scifri-episodes/scifri20181123-episode.mp3"
+    },
+    {
+        "rating":"4.,5",
+        "text":"Testing",
+        "title":"Story Kid",
+        "img":"img/pic-2.png",
+        "audio":"https://s3.amazonaws.com/scifri-episodes/scifri20181123-episode.mp3"
+    }
+]
