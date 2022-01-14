@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Flutter Projects\\music_player_flutter\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\2d7cf3d26896fbdea41fbefd697f5584\\core-1.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Flutter Projects\\music_player_flutter\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\2d7cf3d26896fbdea41fbefd697f5584\\core-1.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Flutter Projects\\music_player_flutter\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\2d7cf3d26896fbdea41fbefd697f5584\\core-1.1.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Flutter Projects\\music_player_flutter\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\2d7cf3d26896fbdea41fbefd697f5584\\core-1.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

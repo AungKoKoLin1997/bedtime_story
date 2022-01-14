@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Flutter Projects\\music_player_flutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-is\\values-is.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\75215a36e4b80f35f3ed3b9c55a55315\\jetified-media2-session-1.1.3\\res\\values-is\\values-is.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,156,251,347,468",
+                        "endColumns": "100,94,95,120,126",
+                        "endOffsets": "151,246,342,463,590"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\44318f973e18fa59fe3957d8af199b21\\core-1.6.0\\res\\values-is\\values-is.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "595",
+                        "endColumns": "100",
+                        "endOffsets": "691"
+                    }
+                }
+            ]
+        }
+    ]
+}

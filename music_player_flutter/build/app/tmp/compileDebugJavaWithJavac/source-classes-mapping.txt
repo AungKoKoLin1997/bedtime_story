@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/music_player_tutorial/BuildConfig.java
+ com.example.music_player_tutorial.BuildConfig

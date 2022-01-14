@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Flutter Projects\\music_player_flutter\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\2d7cf3d26896fbdea41fbefd697f5584\\core-1.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Flutter Projects\\music_player_flutter\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\2d7cf3d26896fbdea41fbefd697f5584\\core-1.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Flutter Projects\\music_player_flutter\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\2d7cf3d26896fbdea41fbefd697f5584\\core-1.1.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Flutter Projects\\music_player_flutter\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\2d7cf3d26896fbdea41fbefd697f5584\\core-1.1.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Flutter Projects\\music_player_flutter\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\2d7cf3d26896fbdea41fbefd697f5584\\core-1.1.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Flutter Projects\\music_player_flutter\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\2d7cf3d26896fbdea41fbefd697f5584\\core-1.1.0\\res\\layout\\custom_dialog.xml"
+    }
+]

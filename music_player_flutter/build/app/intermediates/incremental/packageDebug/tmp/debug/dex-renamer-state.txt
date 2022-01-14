@@ -1,0 +1,4 @@
+#Fri Jan 14 09:44:29 MMT 2022
+base.0=C\:\\Flutter Projects\\music_player_flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

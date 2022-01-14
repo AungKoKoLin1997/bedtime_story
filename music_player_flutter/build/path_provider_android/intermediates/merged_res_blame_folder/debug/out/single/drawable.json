@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Flutter Projects\\music_player_flutter\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\2d7cf3d26896fbdea41fbefd697f5584\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Flutter Projects\\music_player_flutter\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\2d7cf3d26896fbdea41fbefd697f5584\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Flutter Projects\\music_player_flutter\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\2d7cf3d26896fbdea41fbefd697f5584\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Flutter Projects\\music_player_flutter\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-2\\files-2.1\\2d7cf3d26896fbdea41fbefd697f5584\\core-1.1.0\\res\\drawable\\notification_bg.xml"
+    }
+]
